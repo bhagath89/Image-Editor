@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://t.me/uvvauvvve",
+                            url="https://t.me/FlyingKILI",
                         )
                     ],
                 ]
