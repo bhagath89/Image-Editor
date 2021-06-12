@@ -1,16 +1,16 @@
 {
     "name": "Image-Editor-Bot",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://telegra.ph/file/7549e4c075cdd99e5d81c.jpg",
     "keywords": [
         "Image",
         "Editor",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "Source": "https://t.me/uvvauvvve",
+    "repository": "https://t.me/uvvauvvve",
+    "success_url": "https://t.me/marvelmoviesstuff",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
